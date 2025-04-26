@@ -24,17 +24,11 @@ nav_order: 2
 
 ---
 
-## 游戏启动程序的名字必须叫`eldenring.exe`(默认就是)
+## 游戏启动程序的名字必须叫`DarkSoulsRemastered.exe`(默认就是)
 
 每个提醒背后都有故事🙂
 
 ![游戏启动程序名.png](/assets/images/游戏启动程序名.png)
-
----
-
-## 游戏启动程序`eldenring.exe`的上级目录必须叫`Game`
-
-![游戏上级目录名称.png](/assets/images/游戏上级目录名称.png)
 
 ---
 
